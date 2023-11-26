@@ -35,5 +35,4 @@ jobs:
           context: .
           push: true
           target: final
-          tags: ${{raulmax}}/${{ dockertest
-}}:latest
+          tags: ${{raulmax}}/${{ dockertest}}:latest
